@@ -69,7 +69,7 @@ The contract is successfully deployed and live on the **Polygon Amoy Testnet**.
 
   
 
--  **Contract Address:** [`0x0Fc2C3f40f27d27953669a98035156227384Bc6C`](https://amoy.polygonscan.com/address/0x4fef70bb1dbe11B0F1135C8C65f019D02d418073)
+-  **Contract Address:** [`0x0Fc2C3f40f27d27953669a98035156227384Bc6C`](https://amoy.polygonscan.com/token/0x0fc2c3f40f27d27953669a98035156227384bc6c)
 
 -  **Network:** Polygon Amoy (Chain ID: 80002)
 
