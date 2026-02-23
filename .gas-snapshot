@@ -1,0 +1,4 @@
+IvanTokenTest:testInitialSupply() (gas: 7743)
+IvanTokenTest:testMintByOwner() (gas: 44827)
+IvanTokenTest:testTransfer() (gas: 45682)
+IvanTokenTest:test_RevertWhen_NonOwnerMints() (gas: 13277)
