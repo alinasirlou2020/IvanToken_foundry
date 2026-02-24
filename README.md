@@ -77,6 +77,8 @@ The contract is successfully deployed and live on the **Polygon Amoy Testnet**.
 
 -  **Initial Supply:** 1,000,000 IVN
 
+-  **Verified Contract:** [Click here to view on PolygonScan](https://amoy.polygonscan.com/address/0x0Fc2C3f40f27d27953669a98035156227384Bc6C#code) ✅
+
   
 
 ---
